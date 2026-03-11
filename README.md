@@ -1,6 +1,6 @@
 # 👩‍💻 Introducing Myself
 
-![banner](banner.png)
+![Banner](banner.png)
 
 Hello, I'm Thu. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
 
