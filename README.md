@@ -2,7 +2,8 @@
 
 ![Banner](banner.png)
 
-Hello, I'm Thu. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
+Hello, I'm Thu. Final-year Finance student currently training in SQL and Python for data analysis. Interested in financial data, markets, and building data-driven insights. 
+This GitHub is where I show my projects and improve my technical skills.
 
 - Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL
@@ -17,4 +18,4 @@ Welcome to my portfolio, where I showcase my projects.
 
 - Language: SQL, Python
 - Database: PostgreSQL, MySQL
-- Visualization: Power BI 
+- Visualization: Power BI
